@@ -1,0 +1,38 @@
+@font-face {
+ font-family: 'Courier';
+ src: url("https://fonts.googleapis.com/css?family=Courier+Prime&display=swap");
+ font-weight: normal;
+ font-style: normal;
+}
+
+header{
+  height: auto;
+  position:fixed;
+  opacity: 0.8;
+}
+body{
+  background: black;
+}
+h1{
+  color: white;
+  font-family: 'Courier';
+  font-size: 50;
+}
+p {
+  color: white;
+  font-family: 'Courier';
+  font-size: 23;
+}
+button{
+  background-color: green;
+  border-radius: 1px;
+  color: white;
+  width:22%;
+  text-align: center;
+  display: inline-block;
+  font-size: 30;
+  font-family: Courier;
+}
+img {
+  width:22%;
+}
