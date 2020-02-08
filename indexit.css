@@ -18,6 +18,11 @@ h1{
   font-family: 'Courier';
   font-size: 50;
 }
+h2{
+  color: white;
+  font-family: Courier;
+  font-size: 40;
+}
 p {
   color: white;
   font-family: 'Courier';
