@@ -1,0 +1,18 @@
+
+body {
+  background: black;
+}
+
+h1 {
+  color: #00ff00;
+  text-align: center;
+}
+
+p {
+  font-family: Courier;
+  src: url("https://fonts.googleapis.com/css?family=Courier+Prime&display=swap");
+  font-weight: normal;
+  font-style: normal;
+  color: #00ff00;
+  text-align: center;
+}
