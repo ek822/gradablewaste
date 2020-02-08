@@ -1,0 +1,30 @@
+
+@font-face {
+ font-family: 'Courier';
+ src: url("https://fonts.googleapis.com/css?family=Courier+Prime&display=swap");
+ font-weight: normal;
+ font-style: normal;
+}
+
+body {
+  background: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Courier;
+}
+
+h2 {
+  font-family: Courier;
+  font-weight: normal;
+  font-style: normal;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  padding: 200px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
