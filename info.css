@@ -22,7 +22,10 @@ h1 {
   color: white;
   font-family: Courier
 }
-
+h2{
+  color:white;
+  font-family: white;
+}
 p2 {
   color: yellow;
   font-family: Courier
@@ -33,7 +36,8 @@ p {
    padding: 200px;
    padding-top: 0;
    padding-bottom: 0;
-   font-family: Courier
+   font-family: Courier;
+   color: white;
 }
 
 .cities {
