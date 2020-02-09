@@ -47,6 +47,12 @@ p {
   padding: 10px;
 }
 
+h5{
+font-family: Courier;
+font-size: 30;
+color: white;
+align: left;
+}
 
 .heading {
   float:right;
