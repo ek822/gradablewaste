@@ -29,6 +29,10 @@ h2{
 p2 {
   color: yellow;
   font-family: Courier
+  margin: 20px;
+  padding: 200px;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 p {
